@@ -32,9 +32,8 @@
 - 🔹 Анимации, плавности, динамика
 - 🔹 Знаю, как сделать быстро и аккуратно
 
-![Ян's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangbang74&show_icons=true&theme=tokyonight&hide=prs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Пишу+адаптивную+вёрстку...;Работаю+с+Vue+3;Пилю+интерфейсы+на+Tailwind;Убираю+лишний+margin+в+проекте)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)
 
 
 ## 📫 Контакты
