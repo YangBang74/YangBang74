@@ -32,6 +32,9 @@
 - 🔹 Анимации, плавности, динамика
 - 🔹 Знаю, как сделать быстро и аккуратно
 
+![Ян's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangbang74&show_icons=true&theme=tokyonight&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)
 
 
 ## 📫 Контакты
