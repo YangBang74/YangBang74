@@ -24,7 +24,7 @@
 
 ---
 
-(https://github-readme-stats.vercel.app/api?username=yangbang74)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Что я умею
 
