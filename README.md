@@ -24,8 +24,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔧 Что я умею
 
 - 🔹 Верстаю по макетам Figma, Pixel Perfect
@@ -42,6 +40,9 @@
 - Рассказывайте, как будет использоваться сайт
 - Я предложу решение, сроки и подберу сборку
 - Работаю аккуратно, сдаю этапами, держу в курсе
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Контакты
