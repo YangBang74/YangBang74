@@ -41,7 +41,8 @@
 - Работаю аккуратно, сдаю этапами, держу в курсе
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangbang74&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangBang74&layout=compact)
+
 
 
 ## 📫 Контакты
