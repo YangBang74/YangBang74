@@ -43,7 +43,7 @@
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangBang74&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangBang74&layout=compact&theme=radical)
 
 ---
 
