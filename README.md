@@ -14,7 +14,7 @@
 ![SCSS](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=Nuxt&logoColor=00DC82)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
