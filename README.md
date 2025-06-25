@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yan
+# Hey, I'm Yan
 
 There was a time I used to gaze at websites and wonder, “Someone out there builds this.”
 Now — I am that someone.
@@ -8,7 +8,7 @@ Since then, each line of code I write feels like a line in my own book. I write 
 
 ---
 
-## 🛠 Tech & Tools I Use
+## Tech & Tools I Use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -24,7 +24,7 @@ Since then, each line of code I write feels like a line in my own book. I write 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ff0000?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🤝 How I Work
+## How I Work
 
 - You send me a layout or reference
 - Tell me how the site will be used
@@ -39,7 +39,7 @@ Since then, each line of code I write feels like a line in my own book. I write 
 ---
 
 
-## 📫 Contacts
+## Contacts
 
 - [Telegram](https://t.me/itisyang)
 - [Email](mailto:yangproger@gmail.com)
