@@ -1,9 +1,10 @@
 # 👋 Привет! Это Ян
 
-Когда-то я просто смотрел на сайты и думал: "Кто-то ведь это делает". Теперь я — тот самый кто-то.
+There was a time I used to gaze at websites and wonder, “Someone out there builds this.”
+Now — I am that someone.
 
-Я не учился в вузе, не проходил дорогие курсы и не вешаю на себя лишних титулов. Просто однажды я открыл HTML и начал.  
-С тех пор каждую строку кода я пишу как строчку в своей книге. Аккуратно. Со смыслом. И чтобы работало.
+I never went to college, never paid for expensive courses, and I wear no titles I didn’t earn. One day, I simply opened an HTML file and began.
+Since then, each line of code I write feels like a line in my own book. I write it carefully. With meaning. And above all — so it works.
 
 ---
 
