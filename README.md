@@ -1,4 +1,4 @@
-# 👋 Привет! Это Ян
+# 👋 Hey, I'm Yan
 
 There was a time I used to gaze at websites and wonder, “Someone out there builds this.”
 Now — I am that someone.
@@ -24,12 +24,12 @@ Since then, each line of code I write feels like a line in my own book. I write 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ff0000?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🤝 Как со мной работать
+## 🤝 How I Work
 
-- Присылайте макет или референс
-- Рассказывайте, как будет использоваться сайт
-- Я предложу решение, сроки и подберу сборку
-- Работаю аккуратно, сдаю этапами, держу в курсе
+- You send me a layout or reference
+- Tell me how the site will be used
+- I’ll offer a solution, timeline, and a proper setup
+- I build with precision, deliver in stages, and keep you updated
 
 
 
