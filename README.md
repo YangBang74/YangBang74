@@ -18,6 +18,8 @@ Since then, each line of code I write feels like a line in my own book. I write 
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=Nuxt&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
