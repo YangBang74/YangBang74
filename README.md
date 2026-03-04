@@ -6,7 +6,7 @@ Now — I am that someone.
 I never went to college, never paid for expensive courses, and I wear no titles I didn’t earn. One day, I simply opened an HTML file and began.
 Since then, each line of code I write feels like a line in my own book. I write it carefully. With meaning. And above all — so it works.
 
----
+
 
 ## Tech & Tools I Use
 
@@ -35,8 +35,11 @@ Since then, each line of code I write feels like a line in my own book. I write 
 
 
 
----
+
 ![Top Langs](https://github-readme-stats-git-master-denvercoder1.vercel.app/api/top-langs/?username=YangBang74&layout=compact&theme=radical)
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangBang74&theme=radical)
 ---
 
 
