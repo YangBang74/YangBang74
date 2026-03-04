@@ -35,10 +35,8 @@ Since then, each line of code I write feels like a line in my own book. I write 
 
 
 
-
+## Activites
 ![Top Langs](https://github-readme-stats-git-master-denvercoder1.vercel.app/api/top-langs/?username=YangBang74&layout=compact&theme=radical)
----
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangBang74&theme=radical)
 ---
 
