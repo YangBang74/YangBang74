@@ -43,10 +43,6 @@ Since then, each line of code I write feels like a line in my own book. I write 
 
 
 ## Contacts
-
-<p align="left">
-<a href="https://t.me/itisyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="itisyang" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yangbang74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yangbang74" height="30" width="40" /></a>
-<a href="mailto:yangproger@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yangproger" height="30" width="40" /></a>
-</p>
-
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itisyang)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yangbang74/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangproger@gmail.com)
