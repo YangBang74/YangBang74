@@ -43,7 +43,6 @@ Since then, each line of code I write feels like a line in my own book. I write 
 
 
 ## Contacts
-
 - [Telegram](https://t.me/itisyang)
 - [Instagram](https://www.instagram.com/yangbang74/)
 - [Email](mailto:yangproger@gmail.com)
